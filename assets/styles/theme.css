@@ -1,0 +1,19 @@
+---
+---
+
+@font-face {
+    font-family: 'Chiron';
+    src: url('{{ "/assets/fonts/ChironGoRoundTC-VariableFont_wght.ttf" | relative_url }}') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* navbar */
+
+.navbar {
+    font-family: 'Chiron', sans-serif;
+}
+.purp-short-for-purple{
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+}

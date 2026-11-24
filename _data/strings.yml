@@ -1,0 +1,18 @@
+en:
+  # navbar
+  about: "About Us"
+  private: "Private Lessons"
+  donate: "Donate"
+  contact: "Contact Us"
+
+  #footer
+  copyright: "Copyright"
+es:
+  # navbar
+  about: "Nosotros"
+  private: "Clases Privadas"
+  donate: "Donar"
+  contact: "Contacto"
+
+  #footer
+  copyright: "Copyright"
