@@ -4,15 +4,9 @@ en:
   private: "Private Lessons"
   donate: "Donate"
   contact: "Contact Us"
-
-  #footer
-  copyright: "Copyright"
 es:
   # navbar
   about: "Nosotros"
   private: "Clases Privadas"
   donate: "Donar"
   contact: "Contacto"
-
-  #footer
-  copyright: "Copyright"
