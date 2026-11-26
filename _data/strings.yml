@@ -1,12 +1,34 @@
 en:
   # navbar
+  info: "Information"
   about: "About Us"
+  team: "Our Team"
+  rancho: "Tutoring at Rancho San Joaquin"
+
+  highschool: "For High Schoolers"
+  volunteering: "Volunteering Information"
+  signup: "Become a Tutor"
+  peer: "Peer Tutoring"
+
   private: "Private Lessons"
+
   donate: "Donate"
+
   contact: "Contact Us"
 es:
   # navbar
+  info: "Informacíon"
   about: "Nosotros"
-  private: "Clases Privadas"
+  team: "El equipo"
+  rancho: "Tutoría en Rancho San Joaquin"
+  
+  highschool: "Estudiantes de secundaria"
+  volunteering: "Informacíon para voluntarios"
+  signup: "Ser tutor"
+  peer: "Tutoría entre iguales"
+
+  private: "Clases privadas"
+
   donate: "Donar"
+
   contact: "Contactar"
